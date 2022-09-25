@@ -21,4 +21,3 @@ def get_password(min_length):
 
 
 main()
-
