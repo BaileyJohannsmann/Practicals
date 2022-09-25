@@ -38,4 +38,3 @@ def get_celsius(fahrenheit):
 
 
 main()
-
