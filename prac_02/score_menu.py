@@ -59,4 +59,3 @@ def checkscore(score):
 
 
 main()
-
