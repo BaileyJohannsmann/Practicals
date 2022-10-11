@@ -1,4 +1,9 @@
-
+"""
+CP1404 - Practical 4
+quick_picks
+code that asks the user how many "quick picks" they wish to generate. The program then generates that many lines of
+output. Each line consists of 6 random numbers between 1 and 45.
+"""
 import random
 
 NUMBERS_PER_LINE = 6
