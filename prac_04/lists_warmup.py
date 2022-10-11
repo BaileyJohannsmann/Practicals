@@ -1,4 +1,8 @@
-
+"""
+CP1404 - Practical 4
+lists_warmup
+Predict what values expressions have + code to alter "numbers' output
+"""
 numbers = [3, 1, 4, 1, 5, 9, 2]
 
 """
