@@ -1,4 +1,8 @@
-
+"""
+CP1404 - Practical 4
+list_exercises
+code that checks username validity and categories number inputs
+"""
 # 1. Security Checker
 usernames = ['jimbo', 'giltson98', 'derekf', 'WhatSup', 'NicolEye', 'swei45', 'BaseInterpreterInterface', 'BaseStdIn',
              'Command', 'ExecState', 'InteractiveConsole', 'InterpreterInterface', 'StartServer', 'bob']
