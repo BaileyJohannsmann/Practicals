@@ -1,4 +1,8 @@
-
+"""
+CP1404 - Practical 4
+list_comprehensions
+list comprehension code to complete TO DO tasks
+"""
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
 full_names = ["Bob Martin", "Angel Harlem", "Jimi Hendrix", "Alan Turing", "Ada Lovelace"]
 
