@@ -1,4 +1,8 @@
-
+"""
+CP1404 - Practical 4
+total_income
+code that creates income report over a specified number of months
+"""
 def main():
     """Display income report for incomes over a given number of months."""
     incomes = []
