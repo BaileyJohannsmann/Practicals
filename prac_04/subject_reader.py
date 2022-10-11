@@ -1,4 +1,8 @@
-
+"""
+CP1404 - Practical 4
+subject_reader
+code that modifies the format output of a txt file
+"""
 FILENAME = "subject_data.txt"
 
 
